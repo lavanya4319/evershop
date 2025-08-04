@@ -66,8 +66,8 @@ Explore our demo store.
 </p>
 <b>Demo user:</b>
 
-Email: demo@evershop.io<br/>
-Password: 123456
+Email: shop@evershop.io<br/>
+Password: 392004
 
 ## Support
 
